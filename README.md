@@ -3,7 +3,7 @@ Esta aplicação é uma API REST desenvolvida em Node.js com TypeScript que cons
 
 A API externa utilizada é:
 
-http://api-test.bhut.com.br:3000/api
+http:api
 
 Endpoints consumidos:
 GET /v1/carro
